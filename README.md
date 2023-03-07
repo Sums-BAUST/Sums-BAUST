@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sums Suhaib
-- 👀 I’m interested in Wordpress,Elementor,Node.js,React.js
-- 🌱 I’m currently learning Wordpress-Elementor
+- 👀 I’m interested in SEO,Wordpress,Elementor,Divi,Node.js,React.js
+- 🌱 I’m currently learning SEO
 - 💞️ I’m looking to collaborate on open source project
 - 📫 +8801714229383
 
